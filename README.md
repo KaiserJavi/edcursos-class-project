@@ -1,6 +1,6 @@
 # asistencia
 
-A new Flutter project.
+A new Flutter project. This project is very interesting for crate a new mobile application
 
 ## Getting Started
 
